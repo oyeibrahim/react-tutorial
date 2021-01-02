@@ -1,0 +1,16 @@
+/* Normal CSS */
+
+.set_style {
+    padding: 3px;
+    color: chocolate;
+    border: 2px solid lightpink;
+    border-radius: 5px;
+}
+
+.make_big {
+    font-size: large;
+}
+
+.make_bold {
+    font-weight: bold;
+}
